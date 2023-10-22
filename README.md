@@ -6,14 +6,37 @@
 ![linkedin_cover](https://github.com/ali-hourag/ali-hourag/assets/131694498/e5745a83-a3f2-4dbf-a3fe-8012eac9e722)
 
 
-- 👀 I’m interested in software development and artificial intelligence.
-- 🌱 I’m currently learning about testing with Jest and Cypress, GraphQL and Apollo Server.
+- 👀 Hi! I am a Fullstack Developer with a strong affinity for logic, creativity and clean code. Very driven and determined to achieve my goals and constantly striving to be better, more efficient and faster.
+- 🌱 Due to my Computer Science degree and Software Development master I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
 - 💞️ I am on the lookout for new opportunities to contribute to a team, as well as taking on responsibilities and carrying out challenging projects that will help me grow, learn and add value to the company by being an important asset.
 
-- 📫 Here is my <a href="https://www.linkedin.com/posts/ali-hourag_cvalifullstack-activity-7116346951893213184-bP2M?utm_source=share&utm_medium=member_desktop">CV</a> and my <a href="https://www.linkedin.com/in/ali-hourag/">LinkedIn</a>. Don't hesitate to contact me at any time on my e-mail: ali.hourag@gmail.com
-- 💻 I'm currently working together with my team at <a href="https://assemblerinstitute.com/"><b></b>Assembler Institute</b></a> on a music app, that resembles Spotify, but with some built-in functionalities like being able to upload your own music, either publicly or privately, just like SounCloud.
-  The project is done in React + TypeScript with Vite.js for the front end, and PostgreSQL + Express + Prisma using Node for the back end, integrating @Auth0 for user authentication and Cloudinary for asset storage, among other libraries and resources.
-  We are implementing testing and it will soon be deployed by Vercel!
+  <div align="center">
+    📫
+    <br/>
+   <a href="https://github.com/ali-hourag/ali-hourag/files/13063331/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
+    <br/>
+    <a href="https://www.linkedin.com/in/ali-hourag/">Contact me through linkedin</a>
+    <br/>
+  <p>ali.hourag@gmail.com</p>
+</div>
+
+
+  <div align="center">
+  <h2>🛠️ Current Project:</h2>
+</div>
+<p>
+  💻 I'm currently working together with my team in <a href="https://assemblerinstitute.com/"><b></b>Assembler Institute</b></a> on a music app, that resembles Spotify, but with some built-in functionalities like being able to upload your own tracks and albums, either publicly or privately, just like SounCloud!
+  The project is done in React + TypeScript with Vite.js for the front end, and PostgreSQL + Express + Prisma using Node for the back end, integrating Auth0 for user authentication and Cloudinary for asset storage, among other libraries and resources.
+  <br/>
+  * Click <a href="https://apollofy-frontend.vercel.app/">here</a> to try the app already deployed by vercel!<br/>
+  * Mobile and tablet version available, we are working on the web's responisveness to a desktop view!
+</p>
+<br/>
+<div align="center">
+  <a href="https://apollofy-frontend.vercel.app/">🎮 Check out the Project Deeployed</a> |
+  <a href="https://github.com/luisjover/apollofy-frontend">📋 Check out the Project Repo</a>
+</div>
+
 <!---
 ali-hourag/ali-hourag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
