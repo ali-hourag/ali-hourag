@@ -48,8 +48,44 @@
     <li>At Assembler I learnt about Front End technologies such as HTML, CSS, JavaScript, Bootstrap, React, API requests and Next.js, always implementing different libraries like react-hook form.<br/> With regards to the Back End, we learnt about server-based technologies like Node.js and Express.js, using Mongoose or ORM like Prisma to connect it to the database, created with Mongodb or Prisma, locally and using different cloud services, like MongoDB Atlas and vercel storage.<br/>Different resources like Auth0 and Cloudinary were used for authentication and cloud storage.<br/> Finally, we learnt about testing in with Jest and React-Testing-Library and deployement with Vercel.</li>
   </ul>
 </p>
+<div align="center">
+  <h2>🤖 Languages ​​and Technologies</h2>
+</div>
 
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,discord,docker,express,figma,git,github,githubactions,js,java,jest,linkedin,md,mongodb,nextjs,nodejs,postgres,postman,prisma,py,r,react,redux,regex,replit,stackoverflow,styledcomponents,ts,vite,sass&perline=16)](https://skillicons.dev)
+
+</div>
+
+<h2 align="center">💡 Interests</h2>
+<p>
+  Besides coding there a lot of things I enjoy doing! My favourite ones are:
+  <ul>
+    <li>Cooking sushi  🍣</li>
+    <li>Football  ⚽️</li>
+    <li>Hiking  🏔️</li>
+    <li>Reading  📖</li>
+  </ul>
+</p>
+
+
+<div align="center">
+  <h2 align="centre">Let's collaborate!!</h2>
+  <p>
+    <a href="https://github.com/ali-hourag/ali-hourag/files/13063331/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
+  </p>
+  <p>
+    Linkedin: <a href="https://www.linkedin.com/in/ali-hourag/">https://www.linkedin.com/in/ali-hourag/</a>
+  </p>
+  <p>
+    Feel free to reach out to me at <a>ali.hourag@gmail.com</a>. Let's connect and create something amazing together!
+  </p>
+</div>
 <!---
 ali-hourag/ali-hourag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---https://skillicons.dev/icons?i=html,css,bootstrap,discord,docker,express,figma,git,github,githubactions,js,java,jest,linkedin,md,mongodb,nextjs,nodejs,postgres, postman,prisma,py,r,react,redux,regex,replit,stackoverflow,styledcomponents,svg,ts,visualstudio,vite,sass&perline=10--->
