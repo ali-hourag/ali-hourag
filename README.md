@@ -37,6 +37,13 @@
   <a href="https://github.com/luisjover/apollofy-frontend">📋 Check out the Project Repo</a>
 </div>
 
+<h2 align="center">🌱 Learning Journey</h2>
+<p>
+  <ul>
+    <li>I started my journey 2 years ago, when I got involved in a computer science degree in the University of Alcalá, in which I learnt a lot about proactivity, mental agility, working under pressure and problem solving. I studied the fundamentals of programming and databases in programming langauges like Python, Java and PostgreSQL. Not only that, but I also built a strong background in mathematics and statistics, using softwares like R.</li>
+  </ul>
+</p>
+
 <!---
 ali-hourag/ali-hourag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
