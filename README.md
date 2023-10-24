@@ -10,10 +10,11 @@
 - 🌱 Due to my Computer Science degree and Software Development master I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
 - 💞️ I am on the lookout for new opportunities to contribute to a team, as well as taking on responsibilities and carrying out challenging projects that will help me grow, learn and add value to the company by being an important asset.
 
+
   <div align="center">
     📫
     <br/>
-   <a href="https://github.com/ali-hourag/ali-hourag/files/13126639/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
+   <a href="https://github.com/ali-hourag/ali-hourag/files/13126679/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
     <br/>
     <a href="https://www.linkedin.com/in/ali-hourag/">Contact me through linkedin</a>
     <br/>
