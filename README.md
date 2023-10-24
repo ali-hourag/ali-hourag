@@ -13,7 +13,7 @@
   <div align="center">
     📫
     <br/>
-   <a href="https://github.com/ali-hourag/ali-hourag/files/13063331/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
+   <a href="https://github.com/ali-hourag/ali-hourag/files/13126639/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
     <br/>
     <a href="https://www.linkedin.com/in/ali-hourag/">Contact me through linkedin</a>
     <br/>
