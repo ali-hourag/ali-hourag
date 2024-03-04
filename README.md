@@ -7,8 +7,8 @@
 
 
 - 👀 Hi! I am a Fullstack Developer with a strong affinity for logic, creativity and clean code. Very driven and determined to achieve my goals and constantly striving to be better, more efficient and faster.
-- 🌱 Due to my Computer Science degree and Software Development master I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
-- 💞️ I am on the lookout for new opportunities to contribute to a team, as well as taking on responsibilities and carrying out challenging projects that will help me grow, learn and add value to the company by being an important asset.
+- 🌱 Due to my Computer Science degree, Software Development master and now working with Block-Auth I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
+- 💞️ I am on the lookout for new challenges to contribute to a team, as well as taking on responsibilities and carrying out challenging projects that will help me grow, learn and add value to the company by being an important asset.
 
 
   <div align="center">
@@ -23,20 +23,25 @@
 
 
   <div align="center">
-  <h2>🛠️ Current Project:</h2>
+  <h2>🛠️ Current Job:</h2>
 </div>
 <p>
-  💻 I'm currently working together with my team in <a href="https://assemblerinstitute.com/"><b></b>Assembler Institute</b></a> on a music app, that resembles Spotify, but with some built-in functionalities like being able to upload your own tracks and albums, either publicly or privately, just like SounCloud!
-  The project is done in React + TypeScript with Vite.js for the front end, and PostgreSQL + Express + Prisma using Node for the back end, integrating Auth0 for user authentication and Cloudinary for asset storage, among other libraries and resources.
+  💻 I'm currently working as a Full Stack developer applying the latest technologies in a SaaS platform for blockain-based authentication.
   <br/>
-  * Click <a href="https://apollofy-frontend.vercel.app/">here</a> to try the app already deployed by vercel!<br/>
-  * Mobile and tablet version available, we are working on the web's responisveness to a desktop view!
+  -  Build scalable and maintainable components from scratch with React and Tailwind, using different libraries such as Zustand for state management, Framer Motion for dynamic and aesthetically pleasing user interactions in components such as Drap and Drop functionalities, sorting menus, dropdowns and more, getting to enhance my UX/UI and sharpen my abilities in clean code, specially modularization and scabalibility.
+  <br/>
+-  Testing components with Jest and React testing, as well as storybook implementation for better component development in isolation.
+  <br/>
+-  Responsiveness for all devices.
+  <br/>
+- I am developing a Chrome extension with interactions with the dashboard and ddbb throughout the web socket.
+  <br/>
+- Websocket interaction through events so that we can get bidirectional communication between the Front-End and the Back-End.
+  <br/>
+- Docker and Bash scripting to streamline my development environment. I am also using tools like Temuxinator to maintain a smooth workflow and eliminate potential hiccups.
+  <br/>
 </p>
 <br/>
-<div align="center">
-  <a href="https://apollofy-frontend.vercel.app/">🎮 Check out the Project Deeployed</a> |
-  <a href="https://github.com/luisjover/apollofy-frontend">📋 Check out the Project Repo</a>
-</div>
 
 <h2 align="center">🌱 Learning Journey</h2>
 <p>
@@ -65,7 +70,8 @@
   Besides coding there a lot of things I enjoy doing! My favourite ones are:
   <ul>
     <li>Cooking sushi  🍣</li>
-    <li>Football  ⚽️</li>
+    <li>Running  🏃
+    </li>
     <li>Hiking  🏔️</li>
     <li>Reading  📖</li>
   </ul>
@@ -75,7 +81,7 @@
 <div align="center">
   <h2 align="centre">Let's collaborate!!</h2>
   <p>
-    <a href="https://github.com/ali-hourag/ali-hourag/files/13063331/CV_ALI_HOURAG-FULLSTACK.pdf">Check out my CV!</a>
+    <a href="https://drive.google.com/file/d/1UE8frYgIYoIa47k10W_tRTHW-dpq06WC/view?usp=sharing" target='_blank'>Check out my CV!</a>
   </p>
   <p>
     Linkedin: <a href="https://www.linkedin.com/in/ali-hourag/">https://www.linkedin.com/in/ali-hourag/</a>
