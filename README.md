@@ -81,7 +81,7 @@
 <div align="center">
   <h2 align="centre">Let's collaborate!!</h2>
   <p>
-    <a href="https://drive.google.com/file/d/1UE8frYgIYoIa47k10W_tRTHW-dpq06WC/view?usp=sharing" target='_blank'>Check out my CV!</a>
+    <a href="https://drive.google.com/file/d/1zRJiTLjeleO2s-UN-gza6tNXytcPokOF/view?usp=sharing" target='_blank'>Check out my CV!</a>
   </p>
   <p>
     Linkedin: <a href="https://www.linkedin.com/in/ali-hourag/">https://www.linkedin.com/in/ali-hourag/</a>
