@@ -7,7 +7,7 @@
 
 
 - 👀 Hi! I am a Fullstack Developer with a strong affinity for logic, creativity and clean code. Very driven and determined to achieve my goals and constantly striving to be better, more efficient and faster.
-- 🌱 Due to my Computer Science degree, Software Development master and now working with Block-Auth I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
+- 🌱 Due to my Computer Science degree, Software Development master and now working with <a href='https://www.linkedin.com/company/block-auth/'>Block-Auth</a> I have enhanced my problem solving ability, my proactivity and I have become a great team-player with the necessary skills to work independently.
 - 💞️ I am on the lookout for new challenges to contribute to a team, as well as taking on responsibilities and carrying out challenging projects that will help me grow, learn and add value to the company by being an important asset.
 
 
